@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IBANValidator</string>
+    <string name="IBANValidator">IBAN Validator</string>
+    <string name="CurrencyConvertor">Currency Convertor</string>
+    <string name="Home">Home</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="Amount">Amount</string>
+    <string name="IBANNumber">IBAN Number</string>
+    <string name="AccountNumber">Account Number</string>
+    <string name="Rate">Rate</string>
+    <string name="Conversion">Conversion</string>
+    <string name="BankName">Bank Name</string>
+    <string name="Address">Address</string>
+    <string name="Submit">Submit</string>
+    <string name="EnterIban">Please enter iban number</string>
+    <string name="FromCurrency">Please enter from currency</string>
+    <string name="ToCurrency">Please enter to currency</string>
+    <string name="EnterAmount">Please enter amount</string>
+    <string name="IbanInvalid">Iban number is invalid</string>
+</resources>
